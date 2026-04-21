@@ -1,0 +1,80 @@
+{
+  "@@locale": "en",
+  "appTitle": "Boode",
+  "homeTitle": "Boode",
+  "quizSetupTitle": "Quiz Setup",
+  "quizSetupTeamsCount": "Teams count",
+  "quizSetupPlayersCount": "Players count",
+  "quizSetupContinue": "Continue",
+  "quizLotteryTitle": "Quiz Lottery",
+  "quizLotterySubtitle": "Teams order",
+  "quizLotteryTeamName": "Team {order}",
+  "@quizLotteryTeamName": {
+    "placeholders": {
+      "order": {
+        "type": "int"
+      }
+    }
+  },
+  "quizCategoryPickingTitle": "Category Picking",
+  "quizCategoryPickingSubtitle": "Choose categories for the teams",
+  "quizCategoryPickingCategoryLabel": "Category {order}",
+  "@quizCategoryPickingCategoryLabel": {
+    "placeholders": {
+      "order": {
+        "type": "int"
+      }
+    }
+  },
+  "quizBoardTitle": "Quiz Board",
+  "quizBoardSubtitle": "Choose a question cell to start",
+  "quizBoardCurrentTurn": "Current turn: {teamName}",
+  "@quizBoardCurrentTurn": {
+    "placeholders": {
+      "teamName": {
+        "type": "String"
+      }
+    }
+  },
+  "quizBoardBlockSteal": "Block Steal",
+  "quizBoardDoublePoints": "Double Points",
+  "quizBoardExcludeNextTurn": "Exclude Next Turn",
+  "quizQuestionTitle": "Question",
+  "quizQuestionSubtitle": "Current question round",
+  "quizQuestionPlaceholder": "Question content will appear here",
+  "quizQuestionRevealAnswer": "Reveal answer",
+  "quizQuestionOpeningTeam": "Opening team: {teamName}",
+  "@quizQuestionOpeningTeam": {
+    "placeholders": {
+      "teamName": {
+        "type": "String"
+      }
+    }
+  },
+  "quizQuestionAnswerOrder": "Answer order: {teams}",
+  "@quizQuestionAnswerOrder": {
+    "placeholders": {
+      "teams": {
+        "type": "String"
+      }
+    }
+  },
+  "quizQuestionBlockedTeams": "Blocked teams: {teams}",
+  "@quizQuestionBlockedTeams": {
+    "placeholders": {
+      "teams": {
+        "type": "String"
+      }
+    }
+  },
+  "quizQuestionStealBlocked": "Steal is blocked",
+  "quizQuestionStealAvailable": "Steal is available",
+  "quizQuestionBlockAnswer": "Block Team Answer",
+  "quizQuestionSteal": "Steal Question",
+  "quizResultTitle": "Result",
+  "quizResultSubtitle": "Round outcome",
+  "quizResultWinnerLabel": "Winner",
+  "quizResultFinish": "Finish",
+  "quizResultCorrect": "Correct",
+  "quizResultIncorrect": "Incorrect"
+}

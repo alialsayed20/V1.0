@@ -1,0 +1,4 @@
+enum QuestionSide {
+  prompt,
+  answer,
+}

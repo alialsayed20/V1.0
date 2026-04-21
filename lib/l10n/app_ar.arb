@@ -1,0 +1,80 @@
+﻿{
+  "@@locale": "ar",
+  "appTitle": "بودي",
+  "homeTitle": "بودي",
+  "quizSetupTitle": "إعداد لعبة الأسئلة",
+  "quizSetupTeamsCount": "عدد الفرق",
+  "quizSetupPlayersCount": "عدد اللاعبين",
+  "quizSetupContinue": "متابعة",
+  "quizLotteryTitle": "قرعة اللعبة",
+  "quizLotterySubtitle": "ترتيب الفرق",
+  "quizLotteryTeamName": "الفريق {order}",
+  "@quizLotteryTeamName": {
+    "placeholders": {
+      "order": {
+        "type": "int"
+      }
+    }
+  },
+  "quizCategoryPickingTitle": "اختيار الأقسام",
+  "quizCategoryPickingSubtitle": "اختر الأقسام الخاصة بالفرق",
+  "quizCategoryPickingCategoryLabel": "القسم {order}",
+  "@quizCategoryPickingCategoryLabel": {
+    "placeholders": {
+      "order": {
+        "type": "int"
+      }
+    }
+  },
+  "quizBoardTitle": "بورد اللعبة",
+  "quizBoardSubtitle": "اختر خلية سؤال للبدء",
+  "quizBoardCurrentTurn": "الدور الحالي: {teamName}",
+  "@quizBoardCurrentTurn": {
+    "placeholders": {
+      "teamName": {
+        "type": "String"
+      }
+    }
+  },
+  "quizBoardBlockSteal": "منع السرقة",
+  "quizBoardDoublePoints": "دبل النقاط",
+  "quizBoardExcludeNextTurn": "إيقاف الدور القادم",
+  "quizQuestionTitle": "السؤال",
+  "quizQuestionSubtitle": "جولة السؤال الحالية",
+  "quizQuestionPlaceholder": "سيظهر محتوى السؤال هنا",
+  "quizQuestionRevealAnswer": "إظهار الإجابة",
+  "quizQuestionOpeningTeam": "الفريق الفاتح: {teamName}",
+  "@quizQuestionOpeningTeam": {
+    "placeholders": {
+      "teamName": {
+        "type": "String"
+      }
+    }
+  },
+  "quizQuestionAnswerOrder": "ترتيب الإجابة: {teams}",
+  "@quizQuestionAnswerOrder": {
+    "placeholders": {
+      "teams": {
+        "type": "String"
+      }
+    }
+  },
+  "quizQuestionBlockedTeams": "الفرق الممنوعة: {teams}",
+  "@quizQuestionBlockedTeams": {
+    "placeholders": {
+      "teams": {
+        "type": "String"
+      }
+    }
+  },
+  "quizQuestionStealBlocked": "السرقة ممنوعة",
+  "quizQuestionStealAvailable": "السرقة متاحة",
+  "quizQuestionBlockAnswer": "منع فريق من الإجابة",
+  "quizQuestionSteal": "سرقة السؤال",
+  "quizResultTitle": "النتيجة",
+  "quizResultSubtitle": "نتيجة الجولة",
+  "quizResultWinnerLabel": "الفائز",
+  "quizResultFinish": "إنهاء",
+  "quizResultCorrect": "إجابة صحيحة",
+  "quizResultIncorrect": "إجابة خاطئة"
+}
